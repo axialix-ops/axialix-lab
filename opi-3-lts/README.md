@@ -1,4 +1,4 @@
-#Orange Pi 3 LTS — Scripts & Setup
+# Orange Pi 3 LTS — Scripts & Setup
 
 Ветка opi-3-lts содержит набор скриптов и конфигураций для работы с Orange Pi 3 LTS.
 
